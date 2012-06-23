@@ -30,5 +30,5 @@
 * Planets
 * Communication
 * Ships
-* The Garbage Compiler
+* The Mighty Garbage Compiler
   - Like the strip in Star Trek which is the entrance into the Nexus?
