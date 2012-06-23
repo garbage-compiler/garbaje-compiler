@@ -1,0 +1,27 @@
+* The Game
+* Space
+  Space is divided into sectors. Every sector is a cube of not yet
+  specified size. Transition is seamless. If you cross the border to a
+  adjacent sector you get a message that you just entered it.
+
+** Movement
+   Every sector is a world agent (called 'sector agent'). The sector
+   agent is responsible for the movement of all ships in it. It also
+   notifies the agent of an adjacent sector if a ship is about to
+   cross the border to it.
+
+   When a ship wants to move, it signalizes its current sector agent
+   that it fired its engines, telling him its current course. The
+   sector agent acknowledges this, and answers with the estimated time
+   of arrival (ETA).
+
+   When the journey goes as expected, the sector agent signalizes the
+   ship when it arrives at the destination. If the ship crosses the
+   border to the next sector, it gets notified and the sector agent of
+   the new sector notifies when the ship arrives at its destination.
+
+* Planets
+* Communication
+* Ships
+* The Garbage Compiler
+  - Like the strip in Star Trek which is the entrance into the Nexus?
