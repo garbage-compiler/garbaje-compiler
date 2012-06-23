@@ -1,5 +1,8 @@
 (ns garbaje-compiler.core)
 
+;; Messages are sent via the agent concurrency primitive, I.e. the
+;; state and behavior of every actor are encapsulated in an agent. 
+
 (defprotocol Receiver
   (tell [this message sender]))
 
