@@ -34,7 +34,7 @@
   dimensions.
 
   Space and time isn't the same as in our dimension, therefore
-  communication works instantly over vast distances.
+  communication works instantly over vast (but limited) distances.
 
   Messages can be broadcasted without a direct target or entities can
   communicate directly with each other. The latter is always encrypted
