@@ -6,6 +6,24 @@
   These entities can be spaceships, planets, factories, trading posts,
   and whatever you can imagine.
 
+* Notion of Time
+  Realtime.
+
+  We mostly agreed that message delivery and other actions should
+  happen in real time. Entities can communicate in real time via
+  subspace and their messages are delivered as instantly as the busy
+  subspace can manage.
+
+  We might try non-realtime message delivery (batch sending) to ease
+  playing the game with clients with high ping time.
+
+
+  In-game actions like mining a planet and especially moving the ship
+  in space takes a longer time period. Minutes, even hours. Timing
+  will probably need much tweaking.
+
+
+
 * Space
   Space is divided into sectors. Every sector is a cube of not yet
   specified size. Transition is seamless. If you cross the border to a
