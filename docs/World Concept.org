@@ -28,6 +28,9 @@
    the new sector notifies when the ship arrives at its destination.
 
 * Planets
+  - Mostly made of useless rocks.
+  - Big
+
 * Communication
   All between player controlles entities goes over the subspace. The
   subspace is a omnipresent physical dimension above our normal
@@ -41,5 +44,10 @@
   and is guaranteed to be private.
 
 * Ships
+  - Mostly made of metal.
+  - Small
+
 * The Mighty Garbage Compiler
+  - Mighty
   - Like the strip in Star Trek which is the entrance into the Nexus?
+  - Dead Star?
