@@ -1,4 +1,11 @@
 * The Game
+  $game is a space exploration game where the player don't interact
+  directly, but writes his own programs ('Agents') to control the
+  entities he owns in the game.
+
+  These entities can be spaceships, planets, factories, trading posts
+  and whatever you can imagine.
+
 * Space
   Space is divided into sectors. Every sector is a cube of not yet
   specified size. Transition is seamless. If you cross the border to a
