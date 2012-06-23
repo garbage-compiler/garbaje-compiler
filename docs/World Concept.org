@@ -3,7 +3,7 @@
   player don't interact directly, but writes his own programs
   ('Agents') to control the entities in the game.
 
-  These entities can be spaceships, planets, factories, trading posts
+  These entities can be spaceships, planets, factories, trading posts,
   and whatever you can imagine.
 
 * Space
